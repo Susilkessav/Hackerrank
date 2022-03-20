@@ -1,2 +1,2 @@
 # Hackerrank
-Data Structure
+## Data Structure Solutions
